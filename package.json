@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/sort-reach-0a044.figma-tokens-lc0doum2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve FWMzN5NgskdEvNIo2fwc --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
